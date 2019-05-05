@@ -1,0 +1,6 @@
+C:\Users\Санжар\source\repos\Ninth_homework\HomeLib\bin\Debug\HomeLib.dll
+C:\Users\Санжар\source\repos\Ninth_homework\HomeLib\bin\Debug\HomeLib.pdb
+C:\Users\Санжар\source\repos\Ninth_homework\HomeLib\obj\Debug\HomeLib.csprojResolveAssemblyReference.cache
+C:\Users\Санжар\source\repos\Ninth_homework\HomeLib\obj\Debug\HomeLib.csproj.CoreCompileInputs.cache
+C:\Users\Санжар\source\repos\Ninth_homework\HomeLib\obj\Debug\HomeLib.dll
+C:\Users\Санжар\source\repos\Ninth_homework\HomeLib\obj\Debug\HomeLib.pdb

@@ -1,0 +1,8 @@
+C:\Users\Санжар\source\repos\Ninth_homework\ninth_homework\bin\Debug\ninth_homework.exe
+C:\Users\Санжар\source\repos\Ninth_homework\ninth_homework\bin\Debug\ninth_homework.pdb
+C:\Users\Санжар\source\repos\Ninth_homework\ninth_homework\bin\Debug\HomeLib.dll
+C:\Users\Санжар\source\repos\Ninth_homework\ninth_homework\bin\Debug\HomeLib.pdb
+C:\Users\Санжар\source\repos\Ninth_homework\ninth_homework\obj\Debug\BuildingHomeApp.csprojResolveAssemblyReference.cache
+C:\Users\Санжар\source\repos\Ninth_homework\ninth_homework\obj\Debug\BuildingHomeApp.csproj.CoreCompileInputs.cache
+C:\Users\Санжар\source\repos\Ninth_homework\ninth_homework\obj\Debug\ninth_homework.exe
+C:\Users\Санжар\source\repos\Ninth_homework\ninth_homework\obj\Debug\ninth_homework.pdb
